@@ -6,7 +6,7 @@ public class Artifact {
         arrayAdd.add("Avazbek");
         arrayAdd.add("Avazbek2");
         arrayAdd.add("Avazbek3");
-        arrayAdd.add("Avazbek3");
+
         String arrayGet = arrayAdd.get(1);
         System.out.println(arrayGet);
 
