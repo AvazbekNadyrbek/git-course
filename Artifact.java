@@ -9,7 +9,7 @@ public class Artifact {
         arrayAdd.add("Avazbek3");
         String arrayGet = arrayAdd.get(1);
         System.out.println(arrayGet);
-
+        System.out.println(arrayGet);
         Solution test = new Solution();
         System.out.println(test.x);
 
